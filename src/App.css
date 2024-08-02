@@ -3,7 +3,7 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 .fondonav{
-  background-color: rgb(76, 123, 50);
+  background-color: rgb(0, 0, 0);
 }
 .fondogris{
   background-color: rgba(186, 194, 184, 0.993);
@@ -13,7 +13,7 @@ a{
   text-decoration: none;
 }
 .logo{
-  width: 80px;
+  width: 110px;
   height: 80px;
 }
 .name{
@@ -57,7 +57,7 @@ a{
   font-size: 30px;
 }
 .BarraRedes{
-  background-color: #000;
+  background-color: rgb(62, 177, 197);
   padding-left: 20px;
 }
 .iconosRedes{

@@ -9,31 +9,31 @@ const NavList = () => {
                             </li>
                             <li className="nav-item">
                                 <NavLink to='/bicicletas'>
-                                    <span className="nav-link active" aria-current="page">BICICLETAS</span>
+                                    <span className="nav-link active" aria-current="page">PERIFERICOS</span>
                                 </NavLink>
                                 
                             </li>
                             
                             <li className="nav-item">
                                 <NavLink to='/proximamente'>
-                                    <span className="nav-link active"  aria-current="page">COMPONENTES</span>
+                                    <span className="nav-link active"  aria-current="page">HARDWARE</span>
                                 </NavLink>
                                 
                             </li>
                             <li className="nav-item">
                                 <NavLink to='/proximamente'>
-                                    <span className="nav-link active"  aria-current="page">ACCESORIOS</span>
+                                    <span className="nav-link active"  aria-current="page">NOTEBOOKS</span>
                                 </NavLink>
                             </li>
                             <li className="nav-item">
-                            <NavLink to='/indumentaria'><span className="nav-link active" aria-current="page">INDUMENTARIA</span></NavLink>
+                            <NavLink to='/indumentaria'><span className="nav-link active" aria-current="page">MONITORES</span></NavLink>
                                 
                             </li>
                             <li className="nav-item">
-                                <NavLink to='/proximamente'><span className="nav-link active" aria-current="page">MARCAS</span></NavLink>
+                                <NavLink to='/proximamente'><span className="nav-link active" aria-current="page">PC ARMADAS</span></NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink to='/proximamente'><span className="nav-link active" aria-current="page">PRODUCTO</span></NavLink>
+                                <NavLink to='/proximamente'><span className="nav-link active" aria-current="page">NOSOTROS</span></NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink to='/sucursal/contactanos'><span className="nav-link active" aria-current="page">CONTACTO</span></NavLink>

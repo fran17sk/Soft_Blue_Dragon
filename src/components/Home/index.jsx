@@ -1,4 +1,4 @@
-import imgCarousel1 from '../../assets/img/poster1.png'
+import imgCarousel1 from '../../assets/img/poster1.jpg'
 import imgCarousel2 from '../../assets/img/poster2.jpg'
 import imgCarousel3 from '../../assets/img/poster3.jpg'
 import imgCarousel4 from '../../assets/img/poster4.jpg'

@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from '../../assets/img/icono.png'
-import title from '../../assets/img/name.jpg'
+import logo from '../../assets/img/icono.jpg'
+import title from '../../assets/img/name.png'
 import CartWidget from '../Widgets/CartWidget';
 import { NavLink } from 'react-router-dom';
 import { WppWidget } from '../Widgets/WppWidget';
@@ -21,7 +21,7 @@ const Navbar = () =>{
                 <div className="container-fluid">
                     <div>
                         <NavLink to="/">
-                            <span className="navbar-brand" ><img src={logo} alt="logo de la empresa" className="logo rounded-circle"></img></span>
+                            <span className="navbar-brand" ><img src={logo} alt="logo de la empresa" className="logo"></img></span>
                         </NavLink>
                         <NavLink to='/'>
                             <span className="navbar-brand title" ><img src={title} alt="" className="name"></img></span>
